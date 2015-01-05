@@ -107,16 +107,17 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:005039_0000_101668B951A85708"/>
-            <pb facs="tcp:005039_0001_101668BDC16CA790"/>
+            <pb facs="unknown:005039_0000_101668B951A85708"/>
+            <pb facs="unknown:005039_0001_101668BDC16CA790"/>
             <p>A POEM Occaſioned by the ſpreading in this Province the Reſult of a <hi>Conſociation</hi> in a Neighbour Government; being a private Chriſtian's Diſſent from, and Teſtimony againſt, that unſcriptural and dangerous Opinion which ſeems to prevail under the Umbrage of that Reſult, viz. <hi>That the Miniſter of each Town or Pa<g ref="char:EOLhyphen"/>riſh has a POWER to licenſe or forbid the preaching of the Goſpel by any other than himſelf in the Pariſh whereof he is Miniſter— And this tho' (as the ſame Reſult ſays) he be</hi> really <hi>an</hi> unconverted Man.</p>
             <p>BOSTON, Printed and Sold by <hi>Rogers</hi> and <hi>Fowle</hi> at the Head of Queen-ſtreet near the Town-Houſe 1742.</p>
          </div>
       </front>
       <body>
          <div type="poem">
-            <pb facs="tcp:005039_0002_101668BFFB694638" rendition="simple:additions"/>
-            <pb facs="tcp:005039_0003_101668C19AEB6B20"/>
+            <pb facs="unknown:005039_0002_101668BFFB694638"
+                rendition="simple:additions"/>
+            <pb facs="unknown:005039_0003_101668C19AEB6B20"/>
             <head>A POEM.</head>
             <lg>
                <l>ENVY tho' one of the moſt hateful Evils</l>
@@ -152,7 +153,7 @@
                <l>Fix'd on the Soul, by th' Spirit's Influence?</l>
             </lg>
             <lg n="4">
-               <pb facs="tcp:005039_0004_101668C4306344A0"/>
+               <pb facs="unknown:005039_0004_101668C4306344A0"/>
                <head>[IV.]</head>
                <l>ALtho' uncommon, ſeeming out of Seaſon,</l>
                <l>Or for a Time ſuſpending Acts of Reaſon,</l>
@@ -198,7 +199,7 @@
                <l>Without depending on the Biſhop's Leave.</l>
             </lg>
             <lg n="8">
-               <pb facs="tcp:005039_0005_10168D3FE1BD19A8"/>
+               <pb facs="unknown:005039_0005_10168D3FE1BD19A8"/>
                <head>[VIII.]</head>
                <l>ORder and Peace, by GOD himſelf ordain'd,</l>
                <l>Ought in the Scripture Senſe to be maintain'd;</l>
@@ -243,7 +244,7 @@
                <l>To wound poor Sinners, and their Wounds to heal.</l>
             </lg>
             <lg n="12">
-               <pb facs="tcp:005039_0006_10168D43245CFD90"/>
+               <pb facs="unknown:005039_0006_10168D43245CFD90"/>
                <head>[XII.]</head>
                <l>REligion drown'd in dull Formality,</l>
                <l>And Goſpel Grace in Senſuality,</l>
@@ -291,7 +292,7 @@
                <l>Or faithful Miniſtry.</l>
             </lg>
             <lg n="4">
-               <pb facs="tcp:005039_0007_10168D46D61507C8"/>
+               <pb facs="unknown:005039_0007_10168D46D61507C8"/>
                <head>[IV.]</head>
                <l>They're right to judge, whoever grudge</l>
                <l>Tho' an Aſſociation</l>
